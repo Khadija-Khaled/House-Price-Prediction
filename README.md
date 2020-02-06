@@ -12,10 +12,7 @@ The following statistics for KC housing dataset, describe the price range:
 * Median price $450000.0
 * Standard deviation of prices: $367118.7031813723
 
-The following figures display the effect of each of the highly correlated features and the price on each other and on the price:
-
-
-
+The figures displayed in the notebook show the effect of each of the highly correlated features and the price on each other and on the price.
 
 A linear model was then created using SKlearn library with the result of RMSE = 189656.17504220724
 
