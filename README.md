@@ -4,7 +4,7 @@
 
 #### First, we get the correlation between the features and the dependent variables, dropping those that have low correlation as they do not affect the output much. Then we get the correlation between the features, dropping those that are highly correlated as they would provide redundant information.
 
-<img src="house_prediction.PNG">
+<img src="correlation.PNG">
 
 ## The following statistics for KC housing dataset, describe the price range:
 
